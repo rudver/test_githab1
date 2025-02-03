@@ -1,4 +1,0 @@
-first string
-
-
-SECOND STRING
